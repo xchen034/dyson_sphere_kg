@@ -1,5 +1,8 @@
 ## 戴森球图谱
-
+<p align="left">
+    <a href="https://github.com/xchen034/dyson_sphere/master/LICENSE">
+    </a>
+<p>
 #### 内容
 - 戴森球图谱可视化: dyson_visualization
 - 戴森球建造公式检索: dyson_search
