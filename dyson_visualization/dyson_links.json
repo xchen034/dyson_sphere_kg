@@ -1,0 +1,2000 @@
+{
+    "nodes": [
+        {
+            "size": 12,
+            "group": 0,
+            "id": "铁块公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "铁块",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "铁矿",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "铜块公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "铜块",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "铜矿",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "高纯硅块公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "高纯硅块",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "硅石",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "钛块公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "钛块",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "钛石",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "石材公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "石材",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "石矿",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "高能石墨公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "高能石墨",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "煤矿",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "磁铁公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "磁铁",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "钢材公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "钢材",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "晶格硅公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "晶格硅",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "硅石公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "钛合金公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "钛合金",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "硫酸",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "玻璃公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "玻璃",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "金刚石公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "金刚石",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "金刚石公式（高效）",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "金伯利矿石",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "磁线圈公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "磁线圈",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "液氢燃料棒公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "液氢燃料棒",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "氢",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "氘核燃料棒公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "氘核燃料棒",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "重氢",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "超级磁场环",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "反物质燃料棒公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "反物质燃料棒",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "反物质",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "湮灭约束球",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "电动机公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "电动机",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "齿轮",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "钛化玻璃公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "钛化玻璃",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "水",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "棱镜公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "棱镜",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "晶格硅公式（高效）",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "分型硅石",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "有机晶体公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "有机晶体",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "木材",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "植物染料",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "钛晶石公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "钛晶石",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "推进器公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "推进器",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "加力推进器公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "加力推进器",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "电磁涡轮",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "齿轮公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "电磁涡轮公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "电路板公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "电路板",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "引力透镜公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "引力透镜",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "奇异物质",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "位面过滤器公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "位面过滤器",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "卡西米尔晶体",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "物流运输机公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "物流运输机",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "处理器",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "星际物流运输船公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "星际物流运输船",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "小型运载火箭公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "小型运载火箭",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "戴森球组件",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "量子芯片",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "电浆激发器公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "电浆激发器",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "超级磁场环公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "粒子宽带公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "粒子宽带",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "碳纳米管",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "塑料",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "处理器公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "微晶原件",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "卡西米尔晶体公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "石墨烯",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "粒子容器公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "粒子容器",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "空间翘曲器公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "空间翘曲器",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "湮灭约束球公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "太阳帆公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "太阳帆",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "光子合并器",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "框架材料公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "框架材料",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "戴森球组件公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "光子合并器公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "微晶原件公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "量子芯片公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "引力矩阵",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "电磁矩阵公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "电磁矩阵",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "能量矩阵公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "能量矩阵",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "结构矩阵公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "结构矩阵",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "信息矩阵公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "信息矩阵",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "引力矩阵公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "宇宙矩阵公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "宇宙矩阵",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "路基公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "路基",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "光子合并器公式（高效）",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "光栅石",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "卡西米尔晶体公式（高效）",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "粒子容器公式（高效）",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "单极磁石",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "等离子精炼公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "精炼油",
+            "class": "产物"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "原油",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "X射线裂解公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "X射线裂解公式（改）",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "塑料公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "石墨烯公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "石墨烯公式（高效）",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "可燃冰",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "硫酸公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "碳纳米管公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "碳纳米管公式（高效）",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "刺笋结晶",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "重氢公式",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "重氢公式（2）",
+            "class": "公式"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "反物质公式",
+            "class": "公式"
+        },
+        {
+            "size": 8,
+            "group": 1,
+            "id": "临界光子",
+            "class": "产物"
+        },
+        {
+            "size": 12,
+            "group": 0,
+            "id": "奇异物质公式",
+            "class": "公式"
+        }
+    ],
+    "links": [
+        {
+            "source": "铁块公式",
+            "target": "铁块",
+            "value": 3
+        },
+        {
+            "source": "铁矿",
+            "target": "铁块公式",
+            "value": 3
+        },
+        {
+            "source": "铜块公式",
+            "target": "铜块",
+            "value": 3
+        },
+        {
+            "source": "铜矿",
+            "target": "铜块公式",
+            "value": 3
+        },
+        {
+            "source": "高纯硅块公式",
+            "target": "高纯硅块",
+            "value": 3
+        },
+        {
+            "source": "硅石",
+            "target": "高纯硅块公式",
+            "value": 3
+        },
+        {
+            "source": "钛块公式",
+            "target": "钛块",
+            "value": 3
+        },
+        {
+            "source": "钛石",
+            "target": "钛块公式",
+            "value": 3
+        },
+        {
+            "source": "石材公式",
+            "target": "石材",
+            "value": 3
+        },
+        {
+            "source": "石矿",
+            "target": "石材公式",
+            "value": 3
+        },
+        {
+            "source": "高能石墨公式",
+            "target": "高能石墨",
+            "value": 3
+        },
+        {
+            "source": "煤矿",
+            "target": "高能石墨公式",
+            "value": 3
+        },
+        {
+            "source": "磁铁公式",
+            "target": "磁铁",
+            "value": 3
+        },
+        {
+            "source": "铁矿",
+            "target": "磁铁公式",
+            "value": 3
+        },
+        {
+            "source": "钢材公式",
+            "target": "钢材",
+            "value": 3
+        },
+        {
+            "source": "铁块",
+            "target": "钢材公式",
+            "value": 3
+        },
+        {
+            "source": "晶格硅公式",
+            "target": "晶格硅",
+            "value": 3
+        },
+        {
+            "source": "高纯硅块",
+            "target": "晶格硅公式",
+            "value": 3
+        },
+        {
+            "source": "硅石公式",
+            "target": "硅石",
+            "value": 3
+        },
+        {
+            "source": "石矿",
+            "target": "硅石公式",
+            "value": 3
+        },
+        {
+            "source": "钛合金公式",
+            "target": "钛合金",
+            "value": 3
+        },
+        {
+            "source": "钛块",
+            "target": "钛合金公式",
+            "value": 3
+        },
+        {
+            "source": "钢材",
+            "target": "钛合金公式",
+            "value": 3
+        },
+        {
+            "source": "硫酸",
+            "target": "钛合金公式",
+            "value": 3
+        },
+        {
+            "source": "玻璃公式",
+            "target": "玻璃",
+            "value": 3
+        },
+        {
+            "source": "石矿",
+            "target": "玻璃公式",
+            "value": 3
+        },
+        {
+            "source": "金刚石公式",
+            "target": "金刚石",
+            "value": 3
+        },
+        {
+            "source": "高能石墨",
+            "target": "金刚石公式",
+            "value": 3
+        },
+        {
+            "source": "金刚石公式（高效）",
+            "target": "金刚石",
+            "value": 3
+        },
+        {
+            "source": "金伯利矿石",
+            "target": "金刚石公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "磁线圈公式",
+            "target": "磁线圈",
+            "value": 3
+        },
+        {
+            "source": "磁铁",
+            "target": "磁线圈公式",
+            "value": 3
+        },
+        {
+            "source": "铜块",
+            "target": "磁线圈公式",
+            "value": 3
+        },
+        {
+            "source": "液氢燃料棒公式",
+            "target": "液氢燃料棒",
+            "value": 3
+        },
+        {
+            "source": "钛块",
+            "target": "液氢燃料棒公式",
+            "value": 3
+        },
+        {
+            "source": "氢",
+            "target": "液氢燃料棒公式",
+            "value": 3
+        },
+        {
+            "source": "氘核燃料棒公式",
+            "target": "氘核燃料棒",
+            "value": 3
+        },
+        {
+            "source": "钛合金",
+            "target": "氘核燃料棒公式",
+            "value": 3
+        },
+        {
+            "source": "重氢",
+            "target": "氘核燃料棒公式",
+            "value": 3
+        },
+        {
+            "source": "超级磁场环",
+            "target": "氘核燃料棒公式",
+            "value": 3
+        },
+        {
+            "source": "反物质燃料棒公式",
+            "target": "反物质燃料棒",
+            "value": 3
+        },
+        {
+            "source": "反物质",
+            "target": "反物质燃料棒公式",
+            "value": 3
+        },
+        {
+            "source": "氢",
+            "target": "反物质燃料棒公式",
+            "value": 3
+        },
+        {
+            "source": "湮灭约束球",
+            "target": "反物质燃料棒公式",
+            "value": 3
+        },
+        {
+            "source": "钛合金",
+            "target": "反物质燃料棒公式",
+            "value": 3
+        },
+        {
+            "source": "电动机公式",
+            "target": "电动机",
+            "value": 3
+        },
+        {
+            "source": "铁块",
+            "target": "电动机公式",
+            "value": 3
+        },
+        {
+            "source": "齿轮",
+            "target": "电动机公式",
+            "value": 3
+        },
+        {
+            "source": "磁线圈",
+            "target": "电动机公式",
+            "value": 3
+        },
+        {
+            "source": "钛化玻璃公式",
+            "target": "钛化玻璃",
+            "value": 3
+        },
+        {
+            "source": "玻璃",
+            "target": "钛化玻璃公式",
+            "value": 3
+        },
+        {
+            "source": "钛块",
+            "target": "钛化玻璃公式",
+            "value": 3
+        },
+        {
+            "source": "水",
+            "target": "钛化玻璃公式",
+            "value": 3
+        },
+        {
+            "source": "棱镜公式",
+            "target": "棱镜",
+            "value": 3
+        },
+        {
+            "source": "玻璃",
+            "target": "棱镜公式",
+            "value": 3
+        },
+        {
+            "source": "晶格硅公式（高效）",
+            "target": "晶格硅",
+            "value": 3
+        },
+        {
+            "source": "分型硅石",
+            "target": "晶格硅公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "有机晶体公式",
+            "target": "有机晶体",
+            "value": 3
+        },
+        {
+            "source": "木材",
+            "target": "有机晶体公式",
+            "value": 3
+        },
+        {
+            "source": "植物染料",
+            "target": "有机晶体公式",
+            "value": 3
+        },
+        {
+            "source": "水",
+            "target": "有机晶体公式",
+            "value": 3
+        },
+        {
+            "source": "钛晶石公式",
+            "target": "钛晶石",
+            "value": 3
+        },
+        {
+            "source": "有机晶体",
+            "target": "钛晶石公式",
+            "value": 3
+        },
+        {
+            "source": "钛块",
+            "target": "钛晶石公式",
+            "value": 3
+        },
+        {
+            "source": "推进器公式",
+            "target": "推进器",
+            "value": 3
+        },
+        {
+            "source": "钢材",
+            "target": "推进器公式",
+            "value": 3
+        },
+        {
+            "source": "铜块",
+            "target": "推进器公式",
+            "value": 3
+        },
+        {
+            "source": "加力推进器公式",
+            "target": "加力推进器",
+            "value": 3
+        },
+        {
+            "source": "钛合金",
+            "target": "加力推进器公式",
+            "value": 3
+        },
+        {
+            "source": "电磁涡轮",
+            "target": "加力推进器公式",
+            "value": 3
+        },
+        {
+            "source": "齿轮公式",
+            "target": "齿轮",
+            "value": 3
+        },
+        {
+            "source": "铁块",
+            "target": "齿轮公式",
+            "value": 3
+        },
+        {
+            "source": "电磁涡轮公式",
+            "target": "电磁涡轮",
+            "value": 3
+        },
+        {
+            "source": "电动机",
+            "target": "电磁涡轮公式",
+            "value": 3
+        },
+        {
+            "source": "磁线圈",
+            "target": "电磁涡轮公式",
+            "value": 3
+        },
+        {
+            "source": "电路板公式",
+            "target": "电路板",
+            "value": 3
+        },
+        {
+            "source": "铁块",
+            "target": "电路板公式",
+            "value": 3
+        },
+        {
+            "source": "铜块",
+            "target": "电路板公式",
+            "value": 3
+        },
+        {
+            "source": "引力透镜公式",
+            "target": "引力透镜",
+            "value": 3
+        },
+        {
+            "source": "金刚石",
+            "target": "引力透镜公式",
+            "value": 3
+        },
+        {
+            "source": "奇异物质",
+            "target": "引力透镜公式",
+            "value": 3
+        },
+        {
+            "source": "位面过滤器公式",
+            "target": "位面过滤器",
+            "value": 3
+        },
+        {
+            "source": "卡西米尔晶体",
+            "target": "位面过滤器公式",
+            "value": 3
+        },
+        {
+            "source": "钛化玻璃",
+            "target": "位面过滤器公式",
+            "value": 3
+        },
+        {
+            "source": "物流运输机公式",
+            "target": "物流运输机",
+            "value": 3
+        },
+        {
+            "source": "铁块",
+            "target": "物流运输机公式",
+            "value": 3
+        },
+        {
+            "source": "处理器",
+            "target": "物流运输机公式",
+            "value": 3
+        },
+        {
+            "source": "推进器",
+            "target": "物流运输机公式",
+            "value": 3
+        },
+        {
+            "source": "星际物流运输船公式",
+            "target": "星际物流运输船",
+            "value": 3
+        },
+        {
+            "source": "钛合金",
+            "target": "星际物流运输船公式",
+            "value": 3
+        },
+        {
+            "source": "处理器",
+            "target": "星际物流运输船公式",
+            "value": 3
+        },
+        {
+            "source": "加力推进器",
+            "target": "星际物流运输船公式",
+            "value": 3
+        },
+        {
+            "source": "小型运载火箭公式",
+            "target": "小型运载火箭",
+            "value": 3
+        },
+        {
+            "source": "戴森球组件",
+            "target": "小型运载火箭公式",
+            "value": 3
+        },
+        {
+            "source": "氘核燃料棒",
+            "target": "小型运载火箭公式",
+            "value": 3
+        },
+        {
+            "source": "量子芯片",
+            "target": "小型运载火箭公式",
+            "value": 3
+        },
+        {
+            "source": "电浆激发器公式",
+            "target": "电浆激发器",
+            "value": 3
+        },
+        {
+            "source": "磁线圈",
+            "target": "电浆激发器公式",
+            "value": 3
+        },
+        {
+            "source": "棱镜",
+            "target": "电浆激发器公式",
+            "value": 3
+        },
+        {
+            "source": "超级磁场环公式",
+            "target": "超级磁场环",
+            "value": 3
+        },
+        {
+            "source": "电磁涡轮",
+            "target": "超级磁场环公式",
+            "value": 3
+        },
+        {
+            "source": "磁铁",
+            "target": "超级磁场环公式",
+            "value": 3
+        },
+        {
+            "source": "高能石墨",
+            "target": "超级磁场环公式",
+            "value": 3
+        },
+        {
+            "source": "粒子宽带公式",
+            "target": "粒子宽带",
+            "value": 3
+        },
+        {
+            "source": "碳纳米管",
+            "target": "粒子宽带公式",
+            "value": 3
+        },
+        {
+            "source": "晶格硅",
+            "target": "粒子宽带公式",
+            "value": 3
+        },
+        {
+            "source": "塑料",
+            "target": "粒子宽带公式",
+            "value": 3
+        },
+        {
+            "source": "处理器公式",
+            "target": "处理器",
+            "value": 3
+        },
+        {
+            "source": "电路板",
+            "target": "处理器公式",
+            "value": 3
+        },
+        {
+            "source": "微晶原件",
+            "target": "处理器公式",
+            "value": 3
+        },
+        {
+            "source": "卡西米尔晶体公式",
+            "target": "卡西米尔晶体",
+            "value": 3
+        },
+        {
+            "source": "钛晶石",
+            "target": "卡西米尔晶体公式",
+            "value": 3
+        },
+        {
+            "source": "石墨烯",
+            "target": "卡西米尔晶体公式",
+            "value": 3
+        },
+        {
+            "source": "氢",
+            "target": "卡西米尔晶体公式",
+            "value": 3
+        },
+        {
+            "source": "粒子容器公式",
+            "target": "粒子容器",
+            "value": 3
+        },
+        {
+            "source": "电磁涡轮",
+            "target": "粒子容器公式",
+            "value": 3
+        },
+        {
+            "source": "铜块",
+            "target": "粒子容器公式",
+            "value": 3
+        },
+        {
+            "source": "石墨烯",
+            "target": "粒子容器公式",
+            "value": 3
+        },
+        {
+            "source": "空间翘曲器公式",
+            "target": "空间翘曲器",
+            "value": 3
+        },
+        {
+            "source": "引力透镜",
+            "target": "空间翘曲器公式",
+            "value": 3
+        },
+        {
+            "source": "湮灭约束球公式",
+            "target": "湮灭约束球",
+            "value": 3
+        },
+        {
+            "source": "粒子容器",
+            "target": "湮灭约束球公式",
+            "value": 3
+        },
+        {
+            "source": "处理器",
+            "target": "湮灭约束球公式",
+            "value": 3
+        },
+        {
+            "source": "太阳帆公式",
+            "target": "太阳帆",
+            "value": 3
+        },
+        {
+            "source": "石墨烯",
+            "target": "太阳帆公式",
+            "value": 3
+        },
+        {
+            "source": "光子合并器",
+            "target": "太阳帆公式",
+            "value": 3
+        },
+        {
+            "source": "框架材料公式",
+            "target": "框架材料",
+            "value": 3
+        },
+        {
+            "source": "碳纳米管",
+            "target": "框架材料公式",
+            "value": 3
+        },
+        {
+            "source": "钛合金",
+            "target": "框架材料公式",
+            "value": 3
+        },
+        {
+            "source": "高纯硅块",
+            "target": "框架材料公式",
+            "value": 3
+        },
+        {
+            "source": "戴森球组件公式",
+            "target": "戴森球组件",
+            "value": 3
+        },
+        {
+            "source": "框架材料",
+            "target": "戴森球组件公式",
+            "value": 3
+        },
+        {
+            "source": "太阳帆",
+            "target": "戴森球组件公式",
+            "value": 3
+        },
+        {
+            "source": "处理器",
+            "target": "戴森球组件公式",
+            "value": 3
+        },
+        {
+            "source": "光子合并器公式",
+            "target": "光子合并器",
+            "value": 3
+        },
+        {
+            "source": "棱镜",
+            "target": "光子合并器公式",
+            "value": 3
+        },
+        {
+            "source": "电路板",
+            "target": "光子合并器公式",
+            "value": 3
+        },
+        {
+            "source": "微晶原件公式",
+            "target": "微晶原件",
+            "value": 3
+        },
+        {
+            "source": "高纯硅块",
+            "target": "微晶原件公式",
+            "value": 3
+        },
+        {
+            "source": "铜块",
+            "target": "微晶原件公式",
+            "value": 3
+        },
+        {
+            "source": "量子芯片公式",
+            "target": "量子芯片",
+            "value": 3
+        },
+        {
+            "source": "处理器",
+            "target": "量子芯片公式",
+            "value": 3
+        },
+        {
+            "source": "位面过滤器",
+            "target": "量子芯片公式",
+            "value": 3
+        },
+        {
+            "source": "引力矩阵",
+            "target": "空间翘曲器公式",
+            "value": 3
+        },
+        {
+            "source": "电磁矩阵公式",
+            "target": "电磁矩阵",
+            "value": 3
+        },
+        {
+            "source": "磁线圈",
+            "target": "电磁矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "电路板",
+            "target": "电磁矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "能量矩阵公式",
+            "target": "能量矩阵",
+            "value": 3
+        },
+        {
+            "source": "高能石墨",
+            "target": "能量矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "氢",
+            "target": "能量矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "结构矩阵公式",
+            "target": "结构矩阵",
+            "value": 3
+        },
+        {
+            "source": "金刚石",
+            "target": "结构矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "钛晶石",
+            "target": "结构矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "信息矩阵公式",
+            "target": "信息矩阵",
+            "value": 3
+        },
+        {
+            "source": "处理器",
+            "target": "信息矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "粒子宽带",
+            "target": "信息矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "引力矩阵公式",
+            "target": "引力矩阵",
+            "value": 3
+        },
+        {
+            "source": "引力透镜",
+            "target": "引力矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "量子芯片",
+            "target": "引力矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "宇宙矩阵公式",
+            "target": "宇宙矩阵",
+            "value": 3
+        },
+        {
+            "source": "电磁矩阵",
+            "target": "宇宙矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "能量矩阵",
+            "target": "宇宙矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "结构矩阵",
+            "target": "宇宙矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "信息矩阵",
+            "target": "宇宙矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "引力矩阵",
+            "target": "宇宙矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "反物质",
+            "target": "宇宙矩阵公式",
+            "value": 3
+        },
+        {
+            "source": "路基公式",
+            "target": "路基",
+            "value": 3
+        },
+        {
+            "source": "石材",
+            "target": "路基公式",
+            "value": 3
+        },
+        {
+            "source": "钢材",
+            "target": "路基公式",
+            "value": 3
+        },
+        {
+            "source": "光子合并器公式（高效）",
+            "target": "光子合并器",
+            "value": 3
+        },
+        {
+            "source": "光栅石",
+            "target": "光子合并器公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "电路板",
+            "target": "光子合并器公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "卡西米尔晶体公式（高效）",
+            "target": "卡西米尔晶体",
+            "value": 3
+        },
+        {
+            "source": "光栅石",
+            "target": "卡西米尔晶体公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "石墨烯",
+            "target": "卡西米尔晶体公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "氢",
+            "target": "卡西米尔晶体公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "粒子容器公式（高效）",
+            "target": "粒子容器",
+            "value": 3
+        },
+        {
+            "source": "单极磁石",
+            "target": "粒子容器公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "铜块",
+            "target": "粒子容器公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "等离子精炼公式",
+            "target": "精炼油",
+            "value": 3
+        },
+        {
+            "source": "等离子精炼公式",
+            "target": "氢",
+            "value": 3
+        },
+        {
+            "source": "原油",
+            "target": "等离子精炼公式",
+            "value": 3
+        },
+        {
+            "source": "X射线裂解公式",
+            "target": "高能石墨",
+            "value": 3
+        },
+        {
+            "source": "X射线裂解公式",
+            "target": "氢",
+            "value": 3
+        },
+        {
+            "source": "氢",
+            "target": "X射线裂解公式",
+            "value": 3
+        },
+        {
+            "source": "精炼油",
+            "target": "X射线裂解公式",
+            "value": 3
+        },
+        {
+            "source": "X射线裂解公式（改）",
+            "target": "高能石墨",
+            "value": 3
+        },
+        {
+            "source": "X射线裂解公式（改）",
+            "target": "氢",
+            "value": 3
+        },
+        {
+            "source": "原油",
+            "target": "X射线裂解公式（改）",
+            "value": 3
+        },
+        {
+            "source": "塑料公式",
+            "target": "塑料",
+            "value": 3
+        },
+        {
+            "source": "高能石墨",
+            "target": "塑料公式",
+            "value": 3
+        },
+        {
+            "source": "精炼油",
+            "target": "塑料公式",
+            "value": 3
+        },
+        {
+            "source": "塑料",
+            "target": "有机晶体公式",
+            "value": 3
+        },
+        {
+            "source": "精炼油",
+            "target": "有机晶体公式",
+            "value": 3
+        },
+        {
+            "source": "石墨烯公式",
+            "target": "石墨烯",
+            "value": 3
+        },
+        {
+            "source": "硫酸",
+            "target": "石墨烯公式",
+            "value": 3
+        },
+        {
+            "source": "高能石墨",
+            "target": "石墨烯公式",
+            "value": 3
+        },
+        {
+            "source": "石墨烯公式（高效）",
+            "target": "石墨烯",
+            "value": 3
+        },
+        {
+            "source": "石墨烯公式（高效）",
+            "target": "氢",
+            "value": 3
+        },
+        {
+            "source": "可燃冰",
+            "target": "石墨烯公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "硫酸公式",
+            "target": "硫酸",
+            "value": 3
+        },
+        {
+            "source": "水",
+            "target": "硫酸公式",
+            "value": 3
+        },
+        {
+            "source": "石矿",
+            "target": "硫酸公式",
+            "value": 3
+        },
+        {
+            "source": "精炼油",
+            "target": "硫酸公式",
+            "value": 3
+        },
+        {
+            "source": "碳纳米管公式",
+            "target": "碳纳米管",
+            "value": 3
+        },
+        {
+            "source": "钛块",
+            "target": "碳纳米管公式",
+            "value": 3
+        },
+        {
+            "source": "石墨烯",
+            "target": "碳纳米管公式",
+            "value": 3
+        },
+        {
+            "source": "碳纳米管公式（高效）",
+            "target": "碳纳米管",
+            "value": 3
+        },
+        {
+            "source": "刺笋结晶",
+            "target": "碳纳米管公式（高效）",
+            "value": 3
+        },
+        {
+            "source": "重氢公式",
+            "target": "重氢",
+            "value": 3
+        },
+        {
+            "source": "氢",
+            "target": "重氢公式",
+            "value": 3
+        },
+        {
+            "source": "重氢公式（2）",
+            "target": "重氢",
+            "value": 3
+        },
+        {
+            "source": "氢",
+            "target": "重氢公式（2）",
+            "value": 3
+        },
+        {
+            "source": "反物质公式",
+            "target": "反物质",
+            "value": 3
+        },
+        {
+            "source": "反物质公式",
+            "target": "氢",
+            "value": 3
+        },
+        {
+            "source": "临界光子",
+            "target": "反物质公式",
+            "value": 3
+        },
+        {
+            "source": "奇异物质公式",
+            "target": "奇异物质",
+            "value": 3
+        },
+        {
+            "source": "粒子容器",
+            "target": "奇异物质公式",
+            "value": 3
+        },
+        {
+            "source": "铁块",
+            "target": "奇异物质公式",
+            "value": 3
+        },
+        {
+            "source": "重氢",
+            "target": "奇异物质公式",
+            "value": 3
+        }
+    ]
+}

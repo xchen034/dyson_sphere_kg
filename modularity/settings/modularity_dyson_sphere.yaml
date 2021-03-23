@@ -1,0 +1,19 @@
+graph_setting:
+    triple_txt: ../dyson_search/dyson_sphere_tuples.txt
+    read_graph_function: get_graph_from_dysen
+    is_origin_graph: false
+    del_tmp_file: false
+    seed: 123456
+    is_dual_graph: false
+    weight_property:  null
+modularity_setting:
+    ratio: null
+    com_node_num: null
+    iter_num: 1
+    init_partition_file: null
+    precision: 0.0035
+    display_level: -1
+    verbose: true
+    with_weights: true
+outfile: dyson_sphere_rel_community.json
+  

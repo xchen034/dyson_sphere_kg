@@ -1,0 +1,14 @@
+{
+    "products_info": {
+        "超级磁场环": 1,
+        "太阳帆": 5
+    },
+    "dyson_file_path": "/Users/chenxi/projects/dyson_sphere_kg/dyson_sphere_tuples.txt",
+    "extra_resources": [
+        "硫酸",
+        "刺笋结晶",
+        "可燃冰",
+        "光栅石"
+    ],
+    "save_excel_path": "test_excel_2.xlsx"
+}
