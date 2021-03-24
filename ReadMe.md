@@ -2,7 +2,8 @@
 <p align="left">
     <a href="https://github.com/xchen034/dyson_sphere/master/LICENSE">
     </a>
-<p>
+</p>
+
 #### 内容
 - 戴森球图谱可视化: dyson_visualization
 - 戴森球建造公式检索: dyson_search
@@ -17,14 +18,16 @@
     <br>
     <img src="./dyson_visualization/pics/dyson_kg_all.png" width="800"/>
     <br>
-<p>
+</p>
+
 ##### 运行示例2：
 <p align="center">
     <br>
     <img src="./dyson_visualization/pics/dyson_kg_eg.png" width="800"/>
     <img src="./dyson_visualization/pics/dyson_kg_text.png" width="800"/>
     <br>
-<p>
+</p>
+
 #### 戴森球建造公式检索
 - 实现功能：输入不同数量的目标产物，生成对应的生产方案，存入excel
 - 示例结果：test_excel.xlsx
